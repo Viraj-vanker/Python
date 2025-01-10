@@ -1,0 +1,6 @@
+b=(10,20,30,40)
+a=list(b)
+a.append(50)
+a.insert(1,15)
+b=tuple(a)
+print(b)

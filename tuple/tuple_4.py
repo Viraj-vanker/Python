@@ -1,0 +1,10 @@
+a=[60,70,80]
+z=[60,70,80]
+b=list(a)
+y=list(z)
+b.extend(z)
+v=b+y
+z=tuple(v)
+a=tuple(b)
+print(a)
+print(v)
