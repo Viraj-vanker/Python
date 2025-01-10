@@ -1,0 +1,9 @@
+a=[10,20,30,40]
+a.append(50)
+a.insert(1,15)
+print(a)
+b=[60,70,80]
+a.extend(b)
+print(b)
+c=a+b
+print(c)
