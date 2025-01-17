@@ -1,0 +1,12 @@
+a={1,"hello",2}
+b={"viraj"}
+c={"ss",}
+d={"sa","ss"}
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(a)
+print(b)
+print(c)
+print(d)
