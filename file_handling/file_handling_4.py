@@ -1,0 +1,5 @@
+file=open("v1.txt","r")
+print(file.read())
+print(file.tell())
+print(file.seek(2))
+file.close()
